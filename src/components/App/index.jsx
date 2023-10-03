@@ -1,15 +1,4 @@
-import Header from '../Header';
-import Main from '../Main';
-import Footer from '../Footer';
-import './style.css'
 const App = () => {
-   return (
-      <div className='wrapper'>
-         <Header />
-         <Main />
-         <Footer />
-      </div>
-   )
+   return <h1>Homework React</h1>
 }
-
 export default App
