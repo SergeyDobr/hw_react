@@ -1,4 +1,11 @@
+import Slider from '../Slider'; // Предполагая, что ваш компонент Slider находится в файле Slider.js
+
 const App = () => {
-   return <h1>Homework React</h1>
+   return (
+      <div className="App">
+         <Slider />
+      </div>
+   );
 }
-export default App
+
+export default App;
