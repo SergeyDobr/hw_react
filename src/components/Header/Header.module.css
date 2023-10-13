@@ -1,0 +1,31 @@
+.header {
+   background-color: #aba5a5;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0 50px;
+}
+
+.header_logo img {
+   width: 200px;
+}
+
+ul li {
+   list-style: none;
+}
+
+.header_link {
+   text-decoration: none;
+   font-size: 20px;
+   color: #4354ab;
+   font-weight: bold;
+}
+
+.header_link:hover {
+   color: #169f26;
+}
+
+.header ul {
+   display: flex;
+   gap: 30px;
+}

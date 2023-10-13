@@ -1,0 +1,26 @@
+.other {
+   color: orange;
+   margin: 0;
+   font-size: 60px;
+}
+.other_list{
+   background-color: #866868;
+   width: 20%;
+   height: 100vh;
+}
+.brand {
+   color: white;
+   list-style: none;
+   font-size: 30px;
+   padding: 10px;
+}
+.brand a{
+   color: white;
+   text-decoration: none;
+}
+.brand:hover{
+   color: blanchedalmond;
+}
+.other_row{
+   display: flex;
+}
